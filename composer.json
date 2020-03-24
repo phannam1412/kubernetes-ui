@@ -1,0 +1,15 @@
+{
+    "name": "mac_mgt_1/server",
+    "authors": [
+        {
+            "name": "Nam Phan",
+            "email": "phannam1412@yahoo.com"
+        }
+    ],
+    "require": {
+        "react/event-loop": "^0.5.2",
+        "react/http": "^0.8.3",
+        "react/child-process": "^0.5.2"
+
+    }
+}
